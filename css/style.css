@@ -422,4 +422,9 @@ form .form-control {
         width: 7%;
     }
 
+    #toastAlert {
+        right: 4% !important;
+        bottom: 10% !important;
+    }
+
 }
